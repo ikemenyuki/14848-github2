@@ -1,1 +1,1 @@
-this file contains different messages
+this is a file containing random messages
